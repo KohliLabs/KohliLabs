@@ -1,13 +1,13 @@
 ![logo](https://github.com/Ginga1402/Ginga1402/blob/main/Ishaan_Profile.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KohliLabs&label=Profile%20views&color=0e75b6&style=flat" alt="KohliLabs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IshaanLabs&label=Profile%20views&color=0e75b6&style=flat" alt="IshaanLabs" /> </p>
 <h1 align="center">Hi there👋</h1>
 
 ##  I'm Ishaan Kohli.Thanks for stopping by! 
 
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/KohliLabs/KohliLabs/assets/130181481/2ba7ac77-c34b-49b3-bd8c-4b91a46acb52" >
+<img align="right" alt="coding" width="400" src="https://github.com/IshaanLabs/IshaanLabs/assets/130181481/2ba7ac77-c34b-49b3-bd8c-4b91a46acb52" >
 
 
 
@@ -30,7 +30,7 @@ What excites me most is the intersection of cutting-edge LLMs, custom orchestrat
 
 **Web2.0 to Web3.0 AI Experiences:** I’ve implemented AI in traditional web apps and decentralized apps, giving users smarter interfaces across ecosystems.
 
-**GitHub Contributions:**  I'm an active contributor on GitHub, where I regularly share my projects, code snippets, and insights. Feel free to check out my [repositories](https://github.com/KohliLabs?tab=repositories) and explore the work I'm passionate about.
+**GitHub Contributions:**  I'm an active contributor on GitHub, where I regularly share my projects, code snippets, and insights. Feel free to check out my [repositories](https://github.com/IshaanLabs?tab=repositories) and explore the work I'm passionate about.
 
 
 ### Let's Collaborate!
@@ -64,16 +64,16 @@ Feel free to reach out to me, and let's create something amazing together!
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=KohliLabs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=IshaanLabs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohliLabs&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="KohliLabs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanLabs&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="IshaanLabs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KohliLabs&show_icons=true&locale=en&theme=blue-green&background=0D1117&hide_border=true" alt="KohliLabs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IshaanLabs&show_icons=true&locale=en&theme=blue-green&background=0D1117&hide_border=true" alt="IshaanLabs" /></p>
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=KohliLabs&theme=github_dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IshaanLabs&theme=github_dark&hide_border=false)<br/>
 
 
 
